@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">6.5.2 - ScaleAnimation</string>
+    <integer name="duration">500</integer>
+</resources>
