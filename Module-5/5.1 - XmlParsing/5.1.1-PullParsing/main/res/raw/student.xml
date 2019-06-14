@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<class>
+    <student>
+        <name>Neeraj Mishra</name>
+        <rollno>10</rollno>
+        <age>22</age>
+    </student>
+
+    <student>
+        <name>Mayank Khandiwal</name>
+        <rollno>11</rollno>
+        <age>22</age>
+    </student>
+
+    <student>
+        <name>Sumit Gendar</name>
+        <rollno>12</rollno>
+        <age>22</age>
+    </student>
+
+    <student>
+        <name>Vivek Pathak</name>
+        <rollno>13</rollno>
+        <age>22</age>
+    </student>
+</class>
