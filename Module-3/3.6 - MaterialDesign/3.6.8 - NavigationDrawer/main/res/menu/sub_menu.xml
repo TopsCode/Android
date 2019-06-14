@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_id"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Home" />
+        <item
+            android:id="@+id/settings_id"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Settings" />
+        <item
+            android:id="@+id/about_us_id"
+            android:icon="@mipmap/ic_launcher"
+            android:title="About Us" />
+        <item
+            android:id="@+id/help_id"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Help" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/share_id"
+                android:icon="@mipmap/ic_launcher"
+                android:title="Share" />
+            <item
+                android:id="@+id/report_id"
+                android:icon="@mipmap/ic_launcher"
+                android:title="Report" />
+        </menu>
+    </item>
+
+</menu>
