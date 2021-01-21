@@ -1,0 +1,22 @@
+1)Awesome Wallpaper:category wise wallpapers are there used the Online Database
+you can download the images and also can directly set the image as a wallpaper
+
+2)Gujarat IT:
+Here all IT comoanies for gujarat is given city wise 
+Database:Offline:Sqlite
+
+features:
+we can choose the company add to favourites
+make a call,sms and email from app directly 
+location is also given 
+
+3) Kids Learning:
+For kids diffrent types of games and quiz and kids learning concepts are given here
+
+4)AnimalProjects:
+here diffrent type of animal images,videos and sounds are given,kids can learn from that
+
+5)To Do list:
+Like reminder type app is there
+
+ 
